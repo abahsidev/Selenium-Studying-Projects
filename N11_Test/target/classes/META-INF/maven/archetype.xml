@@ -1,0 +1,9 @@
+<archetype>
+  <id>Selenium_in_Java</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/ResultPage/java/AppTest.java</source>
+  </testSources>
+</archetype>
